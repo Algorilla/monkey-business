@@ -10,3 +10,6 @@
 
 # Local History for Visual Studio Code
 .history/
+
+# Custom Files
+bin/Debug/netcoreapp3.1/monkey-business.runtimeconfig.dev.json
