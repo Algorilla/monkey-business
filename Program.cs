@@ -20,7 +20,9 @@ namespace monkey_business
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("We'll surely avoid scurvy if we all eat an orange.");
+			Problem5 solution = new Problem5();
+
+            Console.WriteLine(solution.LongestPalindrome(args[0]));
         }
     }
 }
